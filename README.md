@@ -1,5 +1,4 @@
 <img src="https://github.com/MapacheMediano/MapacheMediano/blob/5a3102cecd88c17f69aa49fcd8fe4e842daa984b/banner.png" alt="Banner" width="1000" height="500"/>
-<header align="left">
 <h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=30&pause=1000&vCenter=true&repeat=false&width=435&lines=Hi%2C+wellcome+to+my+github!+" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
     <h3 align="left">
         <ul>
@@ -11,4 +10,3 @@
            <li> - ⚡ I wish: I wish to get a Nissan Skyline  </li>
         </ul>
     </h3>
-</header>
